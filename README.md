@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketgore100" alt="aniketgore100" /></a> </p>
 
 -  Student of CDAC DAC course
-- 🌱 I’m currently learning **QT(C++), MERN stack**
+- 🌱 Key tech  **QT(C++), MERN stack**
 
 - 📫 How to reach me **goreaniket100@gmail.com**
 
