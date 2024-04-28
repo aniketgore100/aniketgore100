@@ -5,8 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketgore100" alt="aniketgore100" /></a> </p>
 
--  Student of CDAC DAC course
-- 🌱 Key tech  **QT(C++), MERN stack**
+-  C-DAC(PG-Diploma, 2024)
+-  Computer Science (B.Tech, 2023)
+- 🌱 Key tech Java, DSA, SpringBoot, React**
 
 - 📫 How to reach me **goreaniket100@gmail.com**
 
