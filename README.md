@@ -6,7 +6,7 @@
 
 -  C-DAC(PG-Diploma, 2024)
 -  Computer Science (B.Tech, 2023)
-- 🧑‍💻 Key tech Java, DSA, SpringBoot, React.
+- 🧑‍💻 Key tech python, Google cloud, Gen-AI, SQL, Java, DSA, SpringBoot, React.
 
 - 📫 How to reach me **goreaniket100@gmail.com**
 
