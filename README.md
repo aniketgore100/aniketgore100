@@ -107,14 +107,14 @@ I enjoy designing scalable APIs, distributed services, asynchronous processing p
 
 ## AI Document Intelligence Platform
 
-Production-grade multi-tenant document intelligence platform.
+Production-grade multi-tenant Full Stack document intelligence platform.
 
 ### Features
 
 - Semantic Search
 - RAG Pipeline
 - Document Highlighting
-- Multi-tenant Architecture
+- Multi-tenant Architecture ( RBAC )
 - Async Processing
 - Role-Based Access Control
 
