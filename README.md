@@ -82,7 +82,7 @@ I enjoy designing scalable APIs, distributed services, asynchronous processing p
 ## Software Engineer I • Transeg LLP
 
 **Dec 2024 – Jun 2026**
-
+- Productionized **3** AI-Integrated Full Stack Saas Systems. 
 - Built and maintained **100+ production APIs**
 - Reduced API latency by **97%**
 - Designed scalable document processing systems on AWS
